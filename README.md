@@ -1,4 +1,4 @@
-![Banner Image](https://t3.ftcdn.net/jpg/02/06/09/86/360_F_206098620_L3S5vp0F2PLdNyynpWppKKS2WgbHPVSa.webp)
+<img src="https://github.com/malakaydi/malakaydi/blob/main/banner." alt="Header Image">
 
 <h1 align="center">Hi there 👋, It's ✨Aidi Malak✨</h1>
 <h3 align="center">an AI & ML Enthusiast & Data Scientiste from Tunisia 🇹🇳</h3>
