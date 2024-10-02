@@ -1,4 +1,8 @@
-<img src="https://github.com/malakaydi/malakaydi/blob/main/banner." alt="Header Image">
+<p align="center">
+  <a href="https://rishavchanda.io">
+    <img src="https://github.com/malakaydi/malakaydi/blob/main/banner.png" alt="Header Image">
+  </a>
+</p>
 
 <h1 align="center">Hi there 👋, It's ✨Aidi Malak✨</h1>
 <h3 align="center">an AI & ML Enthusiast & Data Scientiste from Tunisia 🇹🇳</h3>
